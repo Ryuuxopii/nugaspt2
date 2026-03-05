@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav {
+    background-color: violet;
+    margin: 5px;
+    padding: 10px;
+}
+.nav a {
+    color: black;
+}
+
+.heade {
+    background-color: blue;
+    height: 100vh;
+    margin: 5px;
+    padding: 20px;
+}
+
+.foto {
+    height: 200px;
+    width: auto;
+    margin: 200px;
+}
+
+.mo {
+    background-color: red;
+}
+.mo ul, ol {
+    margin: 17px;
+}
+.mo li {
+    padding: 3px;
+}
+
+.po {
+    background-color: black;
+    color: white;
+    height: 100vh;
+    margin: 3px;
+    padding: 100px;
+}
+.po td, td {
+    padding: 10px;
+}
+.po table {
+    margin: 10px ;
+}
+
+.href {
+    background-color: navy;
+    color: white;
+    padding: 10px;
+}
+.href a {
+    color: white;
+}
+
+.card {
+    background-color: cyan;
+}
+
+.ta1 input {
+    margin: 9px;
+    padding: 5px;
+}
+.ta2 input {
+    margin: 9px;
+    padding: 5px;
+}
+.ta3 textarea {
+    padding: 10px ;
+    margin: 9px;
+}
+
+.pooter {
+    text-align: right;
+    background-color: pink;
+    padding-top:30px ;
+    margin: 5px;
+}
+
+.ton {
+    margin: 20px;
+}
